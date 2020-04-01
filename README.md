@@ -1,4 +1,6 @@
-# *Raspberry* 3/4 *OpenCv* v4  - TCC II - Guilherme Afonso Elífas Gibosky
+# *Raspberry* 3/4 *OpenCv* v4
+
+## TCC II - Guilherme Afonso Elífas Gibosky
 Tutorial de Instalação e Codigo dos scripts
 
 Requerimentos:
